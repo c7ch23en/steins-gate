@@ -8,7 +8,7 @@ application.pid
 # Mobile tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files
+# Package files
 *.jar
 *.war
 *.ear
