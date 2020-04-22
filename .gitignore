@@ -1,0 +1,32 @@
+# Misc
+*.class
+application.pid
+
+# Mac
+.DS_Store
+
+# Mobile tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Eclipse
+.classpath
+.project
+.settings
+target/
+
+# Idea
+.idea
+*.iml
+
+# Git
+*.orig
+
+# Project defined
